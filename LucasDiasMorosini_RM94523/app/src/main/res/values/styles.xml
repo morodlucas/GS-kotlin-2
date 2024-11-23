@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="GreenButton" parent="Widget.AppCompat.Button">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+        <item name="android:textColor">@color/buttonTextColor</item>
+    </style>
+
+    <style name="GreenToolbar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="titleTextColor">@color/toolbarTextColor</item>
+    </style>
+
+    <style name="GreenEditText" parent="Widget.AppCompat.EditText">
+        <item name="android:backgroundTint">@color/colorPrimary</item>
+    </style>
+</resources>
